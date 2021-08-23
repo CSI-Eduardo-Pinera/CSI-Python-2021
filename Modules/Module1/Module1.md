@@ -201,15 +201,15 @@ What is the difference between Git and GitHub?
 
 What is the difference between a git commit and a git push?
 
- - Answer:
+ 
 
 What is the difference between a pull, and an upstream pull?
 
- - Answer:
+ - Answer: When you pull a repository, you are updating your locl copy with any changes that have been made on the remote version. A upstream pull represents the repository you've forked.
 
 What part of these instructions was unclear or incomplete?
 
- - Answer:
+ - Answer: None.
 
 Type down any class notes below this sentence:
 
