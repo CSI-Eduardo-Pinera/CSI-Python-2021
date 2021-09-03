@@ -96,24 +96,26 @@ print(type(age))
 
 What is the difference between "42" and 42.
 
- - Answer:
+ - Answer:The difference between "42" and 42 is that "42" is a string but 42 is seen as a number.
 
 Define the boolean operators: >, <, ==, >=, <=
 
- - Answer:
+ - Answer: (>)= Greater than (<)= Less than (==)= equals (>=)= greater or equal than (<=)= less or equal than 
 
 How do you address an index in an list? Write a python code that assigns 34 to a new variable by accessing the value stored in:  
         arr = [4, 3, -1, 4, 34]
 
- - Answer:
+ - Answer: arr[4,3,-1,4,34]
+ arr[4]
+ 34
 
 What is the first index of a list? Why?
 
- - Answer:
+ - Answer: In the case of python the first index of a list is 0.
 
 Provide an original example of a null value. It must prove your understanding of the concept.
 
- - Answer:
+ - Answer: If a construction site has not been started then the amount of construction has no value or is null.
 
 Type down any class notes below this sentence:
 
