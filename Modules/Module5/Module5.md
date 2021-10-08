@@ -81,9 +81,16 @@ print(f"Computer selected: {computerChoice}")
 Give a python example for each logic operator in the module image.
 
  - Answers:
-   - OR:
-   - AND: 
-   - NOT: 
+   - OR: x = 25
+   if(x > 10 or x < 20) #true
+    print("your number is 25"):
+   - AND: juice = 60
+if (juice > 10 and juice < 80): #true
+    print("This is right")
+   - NOT:  players = 5
+if not( players > 6)
+  print("More players than 0")
+
 
 
 Type down any class notes below this sentence:
