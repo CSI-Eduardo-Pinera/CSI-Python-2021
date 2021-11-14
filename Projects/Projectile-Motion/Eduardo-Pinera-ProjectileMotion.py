@@ -60,7 +60,7 @@ with open(myOutputPath, 'w') as outfile:
     json.dump([data.__dict__ for data in myDataset], outfile)
     
 deserialize = open(myOutputFilePath)
-experimentJSON = json.loas(deserialize)
+experimentJSON = json.load(deserialize)
 for e in experimentJSON:
     print("\n------------------------------------\n")
     projectileFunction(ExperimentalData(**e))
