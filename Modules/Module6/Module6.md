@@ -82,23 +82,35 @@ myObject = ExperimentData(**experimentJson)
 
 What does JSON Stand for?
 
- - Answer:
+ - Answer: JavaScript Object Notation
 
 Why are JSON formats important?
 
- - Answer:
+ - Answer: JSON file format helps in transmit and serialize all types of structured data. Allows you to perform asynchronous data calls without the need to do a page refresh. Helps you to transmit data between a server and web applications.
+
+ Reference : "https://www.guru99.com/json-tutorial-example.html#:~:text=Application%20of%20JSON,-Here%20are%20some&text=Helps%20you%20to%20transfer%20data,a%20server%20and%20web%20applications".
 
 Create an example of a JSON object with at least 4 values. It may represent anything but it must be original.
 
  - Answer:
+experimentFacts = {
+   "animal" : "zebra",
+   "food" : "grass",
+   "velocity" : 40,
+   "habitat" : "savanna woodlands"
+ }
 
 What is the difference between serialization and deserialization?
 
- - Answer:
+ - Answer: Serialization converts the state of an object into a byte stream. Deserialization uses the byte stream to recreate the object.
+ 
+ Reference :"https://www.geeksforgeeks.org/serialization-in-java/#:~:text=Serialization%20is%20a%20mechanism%20of,used%20to%20persist%20the%20object."
 
 Research data persistance. What did you find?
 
- - Answer: 
+ - Answer: Data Persistence is a means for an application to persist and retrieve information from a non-volatile storage system.
+
+ Reference : "https://www.ibm.com/docs/en/was-liberty/nd?topic=overview-java-persistence-api-jpa" 
 
 Type down any class notes below this sentence:
 
